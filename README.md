@@ -1,31 +1,31 @@
 # CinemaTicketsReservationsApp
 Course assignment on "Java programming on the world wide web" using Servlets, JSP, JSTL, Tomcat and MySQL database.
 
--Session Management
--Cache control
--Password hashing+salting
--Dynamic .jsp pages
--MySQL Database Connection
--Precompiled SQL statements
--MVC Model
+•Session Management<br>
+•Cache control<br>
+•Password encryption --> hashing+salting<br>
+•Dynamic .jsp pages<br>
+•MySQL Database Connection<br>
+•Precompiled SQL statements<br>
+•MVC Model
 
 Roles: Admins / Content Admins / Customers
 
 Admins: 
-List All-Users/Admins/Content-Admins/Customers
-Create other Admins/Content-admins.
+List All-Users/Admins/Content-Admins/Customers<br>
+Create other Admins/Content-admins.<br>
 Delete other Users
 
 Content Admins:
-List all Cinemas/Screens/Screenings/Movies
+List all Cinemas/Screens/Screenings/Movies<br>
 Add/Delete Cinemas/Screens/Screenings/Movies
 
 Customers:
-List movies with available sceenings
-List available screenings for a specific available movie
-List available screenings between specific dates
-Add reservation for a specific available screening
-Reservation log
+List movies with available sceenings<br>
+List available screenings for a specific available movie<br>
+List available screenings between specific dates<br>
+Add reservation for a specific available screening<br>
+Reservation log<br>
 Delete Reservation
 
 Register/Login/Logout using sessions
