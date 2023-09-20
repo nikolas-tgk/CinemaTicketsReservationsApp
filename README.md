@@ -29,3 +29,7 @@ Reservation log<br>
 Delete Reservation
 
 Register/Login/Logout using sessions
+
+Database:
+![image](https://github.com/PGC-2557/CinemaTicketsReservationsApp/assets/35230711/77b3b99c-5005-4de1-bed6-11a5de5ea531)
+
