@@ -31,5 +31,13 @@ Delete Reservation
 Register/Login/Logout using sessions
 
 Database:
-![image](https://github.com/PGC-2557/CinemaTicketsReservationsApp/assets/35230711/77b3b99c-5005-4de1-bed6-11a5de5ea531)
+![image](https://github.com/PGC-2557/CinemaTicketsReservationsApp/assets/35230711/77b3b99c-5005-4de1-bed6-11a5de5ea531)  
+Application Preview:  
+![image](https://github.com/user-attachments/assets/620469e0-78f1-4b20-8753-0f2bfeeca2bc)  
+![image](https://github.com/user-attachments/assets/3bf54957-506f-4cfd-b2c4-ba6553a09697)  
+![image](https://github.com/user-attachments/assets/3ccd1ebb-0ef2-4eea-948d-08f8ced28fd5)
+
+
+
+
 
